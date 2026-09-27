@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\calculator.code\calculator.code\obj\Debug\net10.0-windows\calculator.code.csproj.GenerateResource.cache
+C:\Users\User\source\repos\calculator.code\calculator.code\obj\Debug\net10.0-windows\calculator.code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\calculator.code\calculator.code\obj\Debug\net10.0-windows\calculator.code.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\calculator.code\calculator.code\obj\Debug\net10.0-windows\calculator.code.AssemblyInfo.cs
+C:\Users\User\source\repos\calculator.code\calculator.code\obj\Debug\net10.0-windows\calculator.code.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\calculator.code\calculator.code\obj\Debug\net10.0-windows\calculator.code.Form1.resources
+C:\Users\User\source\repos\calculator.code\calculator.code\bin\Debug\net10.0-windows\calculator.code.exe
+C:\Users\User\source\repos\calculator.code\calculator.code\bin\Debug\net10.0-windows\calculator.code.deps.json
+C:\Users\User\source\repos\calculator.code\calculator.code\bin\Debug\net10.0-windows\calculator.code.runtimeconfig.json
+C:\Users\User\source\repos\calculator.code\calculator.code\bin\Debug\net10.0-windows\calculator.code.dll
+C:\Users\User\source\repos\calculator.code\calculator.code\bin\Debug\net10.0-windows\calculator.code.pdb
+C:\Users\User\source\repos\calculator.code\calculator.code\obj\Debug\net10.0-windows\calculator.code.dll
+C:\Users\User\source\repos\calculator.code\calculator.code\obj\Debug\net10.0-windows\refint\calculator.code.dll
+C:\Users\User\source\repos\calculator.code\calculator.code\obj\Debug\net10.0-windows\calculator.code.pdb
+C:\Users\User\source\repos\calculator.code\calculator.code\obj\Debug\net10.0-windows\calculator.code.genruntimeconfig.cache
+C:\Users\User\source\repos\calculator.code\calculator.code\obj\Debug\net10.0-windows\ref\calculator.code.dll
+C:\Users\User\source\repos\calculator.code\calculator.code\obj\Debug\net10.0-windows\calculat.53F00135.Up2Date
